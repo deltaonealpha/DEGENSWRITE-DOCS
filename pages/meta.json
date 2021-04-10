@@ -1,7 +1,6 @@
 {
-  "index": "What is Nextra",
+  "index": "degenswrite Developer",
   "features": "Features",
-  "advanced": "Advanced",
-  "docs": "Docs Theme",
-  "blog": "Blog Theme"
+  "advanced": "Usage",
+  "docs": "About",
 }
