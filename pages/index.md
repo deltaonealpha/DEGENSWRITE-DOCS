@@ -1,7 +1,8 @@
-# Nextra
+# degenswrite Developer Documentation
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+**degenswrite.com** is a literature platform with smarts and complete customization.
+**Literature for degens, by degens.**
 
-It supports Markdown with React components ([MDX](/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
+The degenswrite API currently provides functions to fetch a list of the latest content (with sorting) and limits. We plan to introduce account-based operations by the next year.
 
 ![](/demo.png)
