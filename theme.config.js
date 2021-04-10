@@ -21,7 +21,7 @@ export default {
       <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
       <meta name="twitter:site:domain" content="nextra.vercel.app" />
       <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
+      <meta name="og:title" content="DEGENSWRITE CORPORATION: Literature by degens, for degens" />
       <meta name="og:image" content="https://nextra.vercel.app/og.png" />
       <meta name="apple-mobile-web-app-title" content="Nextra" />
       <link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png"/>
@@ -36,6 +36,6 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  footerEditOnGitHubLink: false,
+  footerText: <>DEGENSWRITE CORPORATION | MIT {new Date().getFullYear()} © Nextra.</>
 }
